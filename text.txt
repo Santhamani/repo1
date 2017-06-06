@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 36A4-2522
+
+ Directory of C:\Users\Sairam\Desktop\git
+
+06-Jun-17  04:38 PM    <DIR>          .
+06-Jun-17  04:38 PM    <DIR>          ..
+06-Jun-17  04:38 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  93,094,567,936 bytes free
